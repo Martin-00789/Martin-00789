@@ -20,7 +20,7 @@
 ---
 🔧 GitHub | Git
 
-🔧 Zoom , Google meet, ecc 
+🔧 Zoom , Google meet, Discord , ecc 
 
 🔧 Netlify, Vercel, gh-pages  
 
