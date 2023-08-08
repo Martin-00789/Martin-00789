@@ -6,7 +6,7 @@
 
 • 🤔 Front-End Developer and Accountant! Passionate about creating engaging and visually appealing web designs.  
 
-• 🎓 Focusing on Front-End design, mastering HTML, CSS, and JavaScript. Studying React and SASS.  
+• 🎓 Focusing on Front-End design, mastering JavaScript and React. Studying Tailwind and Bootstrap.  
 
 • 🌱 Book lover, nature enthusiast. Finding inspiration in both the digital and natural world.  
 
@@ -20,7 +20,9 @@
 ---
 🔧 GitHub | Git
 
-🔧 Zoom , Google meet, Discord , ecc 
+🔧 Zoom , Google meet, Discord , ecc   
+
+🔧 Loom , Trello   
 
 🔧 Netlify, Vercel, gh-pages  
 
