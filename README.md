@@ -42,5 +42,6 @@
 
 📫🤝🏻 Connect with Me
 ---
-Connect with me on [LinkedIn👨🏻‍💻](https://www.linkedin.com/in/martin-elias-236174266/)    
-Shoot me an [Email💌](mailto:martinfab.elias89@gmail.com) 
+[![Linkedin: MartinFabianElias](https://img.shields.io/badge/-MartinFabianElias-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-elias-236174266/)](https://www.linkedin.com/in/martin-elias-236174266/)
+[![GitHub Martin-00789](https://img.shields.io/github/followers/Martin-00789?label=follow&style=social)](https://github.com/Martin-00789)
+[![Gmail MartinFabianElias](https://img.shields.io/badge/Gmail-martinfab.elias89%40gmail.com-success)](mailto:martinfab.elias89@gmail.com)
