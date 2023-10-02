@@ -14,7 +14,7 @@
 
 🛠 Tech Stack
 ---
-💻 HTML5 | CSS3 | Javascript | React js | SASS | Boopstrap | Tailwing CSS
+💻 HTML5 | CSS3 | Javascript | React js | SASS | Bootstrap | Tailwing CSS
 
 🛠 Familiar with tools like
 ---
