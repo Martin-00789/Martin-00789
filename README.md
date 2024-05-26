@@ -4,9 +4,9 @@
 ---
 
 
-• 🤔 Front-End Developer and Accountant! Passionate about creating engaging and visually appealing web designs.  
+• 🤔 Full Stack Developer and Accountant! Passionate about creating engaging and visually appealing web designs.  
 
-• 🎓 Focusing on Front-End design, mastering JavaScript and React. Studying TypeScript and Next.  
+• 🎓 Focusing on Front-End design, mastering React and Next JS. 
 
 • 🌱 Book lover, nature enthusiast. Finding inspiration in both the digital and natural world.  
 
@@ -14,7 +14,7 @@
 
 🛠 Tech Stack
 ---
-💻 HTML5 | CSS3 | Javascript | React js | SASS | Bootstrap | Tailwing CSS
+💻 HTML5 | CSS3 | Javascript | React js | SASS | Next js | Bootstrap | Tailwing CSS | HBS | MySQL
 
 🛠 Familiar with tools like
 ---
